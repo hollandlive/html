@@ -1,3 +1,11 @@
+/* JQuery  for FullScreenImg template
+* Author: Artem Aksenov
+* Date: 01.01.2016
+* Version 1.0
+* Used Technologies: HTML5/CSS3/Bootstrap3.5/JS/JQuery 
+* Demo: http://arthem.info/fullscreenimg/index16.html
+*/
+
 'use strict';
 $(document).ready(function() {
 
